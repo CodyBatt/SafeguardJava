@@ -24,3 +24,5 @@ hs_err_pid*
 /target/
 /jenkins-plugin/safeguard4jenkins/target/
 /safeguard4jenkins/target/
+/.classpath
+/.project
